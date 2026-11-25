@@ -1,0 +1,440 @@
+{
+ "collected": 395,
+ "cases": [
+  {
+   "cat": "안전·운영",
+   "date": "2026-11-24",
+   "who": "@BkashJosi",
+   "sum": "\"점검만, 승인 전 변경 금지\" 5분 튠업 프롬프트로 메모리·디스크·보안 점검",
+   "url": "https://x.com/BkashJosi/status/2125076699314593956",
+   "lesson": "05-tuneup"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-24",
+   "who": "Dhawal Shah",
+   "sum": "아침 브리핑·메일 정리·개인 CRM 등 9가지 일상 업무를 텔레그램 크론으로 운영",
+   "url": "https://www.dhawalshah.net/article/hermes-agent-use-cases/",
+   "lesson": "06-dhawal"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-11-21",
+   "who": "@koreabuldak",
+   "sum": "(국내) 맥 스튜디오 24시간 가동: 5분마다 네이버 속보 100건 감시 + 아침 글감 메일, Hermes·Claude 분업",
+   "url": "https://x.com/koreabuldak/status/2124166047570047321",
+   "lesson": "02-kbuldak"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-11-20",
+   "who": "@TomGiant1",
+   "sum": "회사 전체를 Hermes로 이전, 협력사들도 전환",
+   "url": "https://x.com/TomGiant1/status/2123673971572838592"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-20",
+   "who": "@lonbe",
+   "sum": "(국내) 방치된 ThinkStation으로 감시 시스템: 메신저로 \"카메라 캡쳐\" 보내면 촬영·상황 설명",
+   "url": "https://x.com/lonbe/status/2123624407444938865"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-11-19",
+   "who": "@NousResearch",
+   "sum": "Microsoft 제휴 Hermes Enterprise: Teams 안에서 재무분석·문서 초안·메일함 정리를 맡기고 같은 스레드에서 검토",
+   "url": "https://x.com/NousResearch/status/2123535954946257096"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-19",
+   "who": "@nickvasilescu",
+   "sum": "Manus 클론을 하루 만에 제작, 엔진 전체를 Hermes 위에서 밤새 빌드",
+   "url": "https://x.com/nickvasilescu/status/2123519639506575491"
+  },
+  {
+   "cat": "안전·운영",
+   "date": "2026-11-19",
+   "who": "@greymatter_hq",
+   "sum": "비개발자가 회사 운영까지 맡겼지만, 연결한 외부 앱 하나가 계정을 삭제한 사고",
+   "url": "https://x.com/greymatter_hq/status/2123442379118031106",
+   "lesson": "10-wipe"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-11-17",
+   "who": "@SenditHighor",
+   "sum": "텔레그램 내장 AI 에이전트 하네스 \"Dictator\"가 Hermes 기반(macOS 베타)",
+   "url": "https://x.com/SenditHighor/status/2122767739903230318"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-16",
+   "who": "@artisbautra",
+   "sum": "Hermes 에이전트가 Postiz(오픈소스 42k★)를 DB·큐 포함 통째로 재구현, 샌드박스 비용 $0.005",
+   "url": "https://x.com/artisbautra/status/2122371674217848925"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-14",
+   "who": "@rlaope",
+   "sum": "일주일간 서브에이전트 약 1,000개로 버그 수정·기능 개발 수백 건 처리 (Oh-My-Hermes 제작자)",
+   "url": "https://x.com/rlaope/status/2121440158285484168"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-11-14",
+   "who": "@HermesWatcher",
+   "sum": "Hermes Shortcuts: \"시리야, 헤르메스한테 물어봐\" + 공유시트로 링크·PDF·영상 전달",
+   "url": "https://x.com/HermesWatcher/status/2121483289840304528"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-11-13",
+   "who": "@witcheer",
+   "sum": "IT 디렉터가 $10 크레딧으로 Windows 도메인 전체 구축(DC 2대, 프린트·파일·앱 서버), 자료조사·ISO 다운로드까지 에이전트가 수행",
+   "url": "https://x.com/witcheer/status/2121203672684138621"
+  },
+  {
+   "cat": "안전·운영",
+   "date": "2026-11-13",
+   "who": "@EKBaeAI",
+   "sum": "AI 에이전트 도입 1순위는 툴이 아니라 에이전트 전용 계정·전용 기기",
+   "url": "https://x.com/EKBaeAI/status/2121053331040948637",
+   "lesson": "04-account"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-11-11",
+   "who": "@LeadpoetAI",
+   "sum": "Leadpoet 플러그인: 웹사이트를 주면 구매 신호 있는 기업을 찾아 영업 메일 작성·발송",
+   "url": "https://x.com/LeadpoetAI/status/2120594837095219420"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-11",
+   "who": "@jeffreykim0711",
+   "sum": "AutoRAG: 왓츠앱·텔레그램·메일·드라이브·브라우저 기록을 통합 검색",
+   "url": "https://x.com/jeffreykim0711/status/2120606883602145561"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-11",
+   "who": "@_HEISEMMA",
+   "sum": "offgrid: 스마트폰·데이터 없이 SMS/USSD로 Hermes 사용",
+   "url": "https://x.com/_HEISEMMA/status/2120632446408384974"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-11-11",
+   "who": "@Yan_xbt",
+   "sum": "hermes-vnc: 에이전트가 설치 안 된 다른 컴퓨터를 VNC로 조작",
+   "url": "https://x.com/Yan_xbt/status/2120592658577965275"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-10",
+   "who": "@Oh_Jay0",
+   "sum": "benchforge: 아두이노 펌웨어를 가상 칩에서 크래시 테스트하고 통과할 때까지 Hermes가 수정",
+   "url": "https://x.com/Oh_Jay0/status/2120110433595961675"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-11-10",
+   "who": "@adolandev",
+   "sum": "Hermes Whiteboard: 계획을 말하면 경로로 펼치고 각 단계를 에이전트가 수행·출처 첨부 후 브리핑",
+   "url": "https://x.com/adolandev/status/2120257993791131809"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-09",
+   "who": "@ofalamin",
+   "sum": "Ballast: \"3GB 확보해줘\" → 재생성 가능한 캐시 목록을 보여주고 승인 후 삭제",
+   "url": "https://x.com/ofalamin/status/2119856171616006630"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-11-09",
+   "who": "@adolandev",
+   "sum": "가상 성대(목·혀·입술)를 달아 노래로 대답하게 함 (TTS 없음)",
+   "url": "https://x.com/adolandev/status/2119838834129330647"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-08",
+   "who": "@xleeking",
+   "sum": "Shopmate: \"아이폰 사줘\" 한마디로 쇼핑 전 과정 처리",
+   "url": "https://x.com/xleeking/status/2119484092026650661"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-08",
+   "who": "@ayoadhe",
+   "sum": "Subscription Sheriff: 구독·무료체험을 추적해 결제 전에 경고",
+   "url": "https://x.com/ayoadhe/status/2119455999773819030"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-08",
+   "who": "@ScottLeimroth",
+   "sum": "Signal Dog: 청각장애인을 위해 냉장고 알람·타이머·노크 소리를 듣고 채팅으로 알림",
+   "url": "https://x.com/ScottLeimroth/status/2119318814991188312"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-08",
+   "who": "@francoleff",
+   "sum": "Google Workspace 플러그인으로 업무용 Gmail·문서 연동",
+   "url": "https://x.com/francoleff/status/2119446042970309054"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-11-07",
+   "who": "@adolandev",
+   "sum": "WoW 애드온: 게임 안에서 Hermes 세션 조회·프롬프트 전송",
+   "url": "https://x.com/adolandev/status/2119004662191751198"
+  },
+  {
+   "cat": "안전·운영",
+   "date": "2026-11-07",
+   "who": "@witcheer",
+   "sum": "undo-effects 플러그인: 에이전트가 지우거나 덮어쓴 파일을 한 줄로 복구",
+   "url": "https://x.com/witcheer/status/2119089999379325175",
+   "lesson": "08-undo"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-06",
+   "who": "@vulnix0x4",
+   "sum": "월 $10 해킹봇(OpenCode+DeepSeek V4.1 Flash, 봇 4개 구성)이 첫 1시간 만에 omarchy 권한상승 취약점 발견",
+   "url": "https://x.com/vulnix0x4/status/2118502352303071414"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-11-06",
+   "who": "@amjaworsky",
+   "sum": "LetsFG: 운전 중 전화로 에이전트에게 호텔 예약",
+   "url": "https://x.com/amjaworsky/status/2118805751829287410"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-11-05",
+   "who": "@0xdippo",
+   "sum": "안 쓰는 에코닷을 Alexa 대신 Hermes 스피커로 (Home Assistant 연동)",
+   "url": "https://x.com/0xdippo/status/2118355830882132184"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-11-03",
+   "who": "@BkashJosi",
+   "sum": "\"직원 고용\" 템플릿: 매주 월요일 arXiv 신규 논문 5줄 요약(링크 포함) 등 cron 기반 반복업무",
+   "url": "https://x.com/BkashJosi/status/2117635287828623598",
+   "lesson": "09-hire"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-11-01",
+   "who": "@MalwareBibleJP",
+   "sum": "vulnerator-ai: Kali 진단도구·브라우저를 MCP로 조작해 침투테스트 진행",
+   "url": "https://x.com/MalwareBibleJP/status/2116797143449251904"
+  },
+  {
+   "cat": "안전·운영",
+   "date": "2026-11-01",
+   "who": "@BkashJosi",
+   "sum": "위험한 명령은 실행 전 휴대폰으로 승인, 공식 모바일 앱·음성 메모로 원격 조종",
+   "url": "https://x.com/BkashJosi/status/2116682662752682112",
+   "lesson": "07-approve"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-27",
+   "who": "@oota_yoshinori0",
+   "sum": "7천 엔 로봇팔을 로컬 LLM+Hermes+MCP+MoveIt2로 자연어 제어",
+   "url": "https://x.com/oota_yoshinori0/status/2115015278715428865"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-10-26",
+   "who": "@JulianGoldieSEO",
+   "sum": "영상 제작·편집·멀티채널 배포 자동화, 스킬 하나로 사이트 구글 클릭 월 412→18,036 주장",
+   "url": "https://x.com/JulianGoldieSEO/status/2114633586909311110"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-10-25",
+   "who": "@witcheer",
+   "sum": "hermes record: 브라우저 작업(피자 주문)을 녹화해 스킬로 만들고 세부값만 바꿔 반복",
+   "url": "https://x.com/witcheer/status/2114405376959635912"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-10-24",
+   "who": "@bretonwill",
+   "sum": "GTM(영업·마케팅) 전체를 Hermes로 운영, 리스트 빌딩을 Slack 메시지 한 줄로 처리(14부작 문서 공개)",
+   "url": "https://x.com/bretonwill/status/2113989944918372600"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-10-24",
+   "who": "@witcheer",
+   "sum": "advanced-delegation: 서브에이전트마다 작업에 맞는 모델로 자동 라우팅",
+   "url": "https://x.com/witcheer/status/2114027890253918248"
+  },
+  {
+   "cat": "생활·개인비서",
+   "date": "2026-10-24",
+   "who": "@ounce_online",
+   "sum": "(국내) 그록봇을 대장으로 Hermes·Muse·Dots가 메일로 지시받고 서로 보고하는 협업 구조",
+   "url": "https://x.com/ounce_online/status/2113921252931100808"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-24",
+   "who": "@witcheer",
+   "sum": "Microduck 보행 로봇: Hermes가 시뮬레이터 학습을 큐잉·테스트·Hugging Face 배포",
+   "url": "https://x.com/witcheer/status/2113933525669867989"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-10-23",
+   "who": "@moatrend",
+   "sum": "(국내) 텔레그램 AI 팀: 비서→칸반 등록→기획·리서치·콘텐츠·검수 분업으로 블로그 초안 제작",
+   "url": "https://x.com/moatrend/status/2113431010943877135",
+   "lesson": "03-moatrend"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-23",
+   "who": "@witcheer",
+   "sum": "Hermes Watch: Amazfit 스마트워치에서 음성 질문·답변",
+   "url": "https://x.com/witcheer/status/2113684377527840794"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-23",
+   "who": "@alexcovo_eth",
+   "sum": "M5Stack StackChan 로봇에 Hermes 탑재(로컬 음성서버), 이후 DJ·립싱크 추가",
+   "url": "https://x.com/alexcovo_eth/status/2113706059856748944"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-10-22",
+   "who": "@witcheer",
+   "sum": "공식 사례 25건 추가: 배수공사 업체가 트럭에서 텔레그램으로 견적·청구서 발송, 165명 여행사의 1인 IT가 일상업무 80% 처리 등",
+   "url": "https://x.com/witcheer/status/2113238944204620195"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-10-21",
+   "who": "@NousResearch",
+   "sum": "젠슨 황 GTC 베를린 키노트 피날레: 프롬프트 하나로 맞춤형 Hermes를 설치·구성해 시연",
+   "url": "https://x.com/NousResearch/status/2113010017645244623"
+  },
+  {
+   "cat": "개발·보안",
+   "date": "2026-10-21",
+   "who": "@DecruxR",
+   "sum": "\"게임 만들어줘\" 한마디로 스프라이트·사운드·음악·3D·Godot 빌드 생성, 직접 플레이해서 크래시까지 발견",
+   "url": "https://x.com/DecruxR/status/2112781937303851341"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-10-21",
+   "who": "@kookoo_Nick",
+   "sum": "(국내) 퇴근길 텔레그램으로 \"숏츠 만들어\" 지시 → 집 PC가 영상 제작 (윈도우 설치 순서 공개)",
+   "url": "https://x.com/kookoo_Nick/status/2112768425890111712",
+   "lesson": "01-kookoo"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-16",
+   "who": "@witcheer",
+   "sum": "JARVIS Desk Bot: ESP32 탁상 로봇이 작업 진행상황을 음성으로 중계",
+   "url": "https://x.com/witcheer/status/2111028813555523855"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-10-13",
+   "who": "@Tiny_Fish",
+   "sum": "TinyFish 무료 검색 플러그인으로 빈칸 가득한 엑셀 시트를 웹 검색해서 자동 채움",
+   "url": "https://x.com/Tiny_Fish/status/2110023449708220485"
+  },
+  {
+   "cat": "리서치·콘텐츠",
+   "date": "2026-10-09",
+   "who": "@tamanekokoro",
+   "sum": "유가증권보고서 5만 건을 다운로드시켜 특정 기업 내부사정 분석",
+   "url": "https://x.com/tamanekokoro/status/2108570299717586969"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-10-07",
+   "who": "@RightSideOfAI",
+   "sum": "비개발자 동료 10명(리서치·회계·영업·CS)에게 Hermes 배포, 각자 필요한 도구를 직접 만들게 함",
+   "url": "https://x.com/RightSideOfAI/status/2107772185305870361"
+  },
+  {
+   "cat": "기업·업무",
+   "date": "2026-10-06",
+   "who": "@witcheer",
+   "sum": "공식 사례 페이지 45건 추가: Razorpay 220명+ 직원에게 상시 에이전트, 수영장 관리업체 기사 보고서 실시간 검수, 의사 하루 30~45분 절약 등",
+   "url": "https://x.com/witcheer/status/2107458523172901345"
+  },
+  {
+   "cat": "기기·로봇·IoT",
+   "date": "2026-10-02",
+   "who": "@tonysimons",
+   "sum": "0bull 플러그인: 실제 아이폰 화면 인식·탭·입력·매크로 실행",
+   "url": "https://x.com/tonysimons/status/2105995875281404406"
+  }
+ ],
+ "stages": [
+  {
+   "k": "1~2차시",
+   "n": "서버 · 텔레그램 봇",
+   "ids": []
+  },
+  {
+   "k": "3차시",
+   "n": "크론잡 콘텐츠 생성",
+   "ids": [
+    "kbuldak",
+    "moatrend"
+   ]
+  },
+  {
+   "k": "4~5차시",
+   "n": "승인 → 버퍼 예약",
+   "ids": [
+    "approve"
+   ]
+  },
+  {
+   "k": "6차시 PART 1~2",
+   "n": "쇼츠 크론잡",
+   "ids": [
+    "kookoo"
+   ]
+  },
+  {
+   "k": "6차시 PART 4",
+   "n": "서버 지키기",
+   "ids": [
+    "account",
+    "tuneup",
+    "undo",
+    "wipe"
+   ]
+  },
+  {
+   "k": "졸업 후",
+   "n": "다음 크론잡 · 확장",
+   "ids": [
+    "dhawal",
+    "hire"
+   ]
+  }
+ ]
+}
